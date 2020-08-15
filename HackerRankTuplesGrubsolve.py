@@ -1,0 +1,6 @@
+n = int(input())
+L = input().split()
+L1 = list(map(lambda x: int(x), L))
+T = tuple((L1))
+print(T)
+print(hash(T))
