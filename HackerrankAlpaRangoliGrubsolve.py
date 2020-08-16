@@ -1,3 +1,4 @@
+# RUN this code and enter any number :) -grub
 Num = int(input())
 L = []
 for i in range(97,97+Num):
